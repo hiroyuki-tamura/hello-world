@@ -4,3 +4,5 @@ hogehoge ほげらった
 2nd commit message THIS
 
 edit master directly
+
+hogehoge
