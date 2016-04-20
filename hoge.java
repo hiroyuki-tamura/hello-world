@@ -14,4 +14,10 @@ class hoge_X{
 
     void execute_hoge(){
     }
+
+    class Expertimental{
+
+	void exp1(){
+	}
+    }
 }
