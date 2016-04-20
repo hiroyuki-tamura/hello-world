@@ -5,6 +5,6 @@ class hoge{
     }
 
     void about(){
-	System.out.println("about this program")
+	System.out.println("about this program, something")
     }
 }
