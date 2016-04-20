@@ -11,4 +11,7 @@ class hoge_X{
     void help(){
 	System.out.println("help !");
     }
+
+    void execute_hoge(){
+    }
 }
