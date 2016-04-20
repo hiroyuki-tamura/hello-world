@@ -7,4 +7,8 @@ class hoge{
     void about(){
 	System.out.println("about this program, (some|any)thing")
     }
+
+    void help(){
+	System.out.println("help !");
+    }
 }
