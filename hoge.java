@@ -13,5 +13,8 @@ class hoge_X{
     }
 
     class Expertimental{
+
+	void exp1(){
+	}
     }
 }
