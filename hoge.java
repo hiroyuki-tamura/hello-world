@@ -1,4 +1,7 @@
 class hoge_X{
+    /**
+       @param args
+     */
     public static void main(String args[])
     {
 	System.out.println("hogehoge fugafuga piyopiyo");
