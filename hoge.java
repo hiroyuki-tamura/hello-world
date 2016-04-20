@@ -1,4 +1,4 @@
-class hoge{
+class hoge_X{
     public static void main(String args[])
     {
 	System.out.println("hogehoge fugafuga piyopiyo");
