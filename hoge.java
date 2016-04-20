@@ -22,5 +22,8 @@ class hoge_X{
 
 	void exp1(){
 	}
+	int sum(int a, int b){
+	    return a + b;
+	}
     }
 }
