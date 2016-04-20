@@ -3,4 +3,8 @@ class hoge{
     {
 	System.out.println("hogehoge fugafuga")
     }
+
+    void about(){
+	System.out.println("about this program")
+    }
 }
