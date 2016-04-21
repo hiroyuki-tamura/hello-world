@@ -6,3 +6,5 @@ hogehoge ほげらった
 edit master directly
 
 hogehoge
+
+* no branch test
