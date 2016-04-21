@@ -10,3 +10,4 @@ hogehoge
 
 -----
 edited in branch "b-two"
+following edit in "b-two"
