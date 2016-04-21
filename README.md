@@ -6,3 +6,7 @@ hogehoge ほげらった
 edit master directly
 
 hogehoge
+
+
+-----
+edited in branch "b-two"
