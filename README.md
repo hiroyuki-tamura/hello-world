@@ -9,3 +9,7 @@ hogehoge
 
 * no branch test
 a11111111
+=======
+
+edited in branch "b-two"
+following edit in "b-two"
