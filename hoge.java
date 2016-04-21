@@ -31,4 +31,8 @@ class hoge_X{
 	    
 	}
     }
+
+    void calc(int a, int b){
+	return 0;
+    }
 }
